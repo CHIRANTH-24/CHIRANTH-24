@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning ReactJS 
-- 🤔 I’m looking for help with CSS
+- 🌱 I’m currently learning Full Stack Web Development
 - 📫 How to reach me: chiranthrajuc@gmail.com
 
 
