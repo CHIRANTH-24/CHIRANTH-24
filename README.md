@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on Gantries<br>👯 I’m looking to collaborate on Talawa Admin Portal<br>🤝 I’m looking for help with Talawa API<br>🌱 I’m currently learning ReactJS<br> Reach me out at chiranthrajuc@gmail.com
+
+🔭 I’m currently making a clone of Jira from @AntonioErdeljac🔭 I’m currently working on Gantries<br>👯 I’m looking to collaborate on Talawa Admin Portal<br>🤝 I’m looking for help with Talawa API<br>🌱 I’m currently learning ReactJS<br> Reach me out at chiranthrajuc@gmail.com
 
 
 # 💻 Tech Stack:
