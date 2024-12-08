@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on Talawa Admin Portal <br>🤝 I’m looking for help with Talawa API<br>🌱 I’m currently learning ReactJS<br> Reach me out at chiranthrajuc@gmail.com
+👯 I’m looking to collaborate on Talawa Admin Portal <br>🤝 I’m looking for help with Talawa API<br>Reach me out at chiranthrajuc@gmail.com
 
 
 # 💻 Tech Stack:
