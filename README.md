@@ -1,5 +1,6 @@
 # 💫 Namste Im Chiranth, Full Stack web developer from India
-🔭 I’m currently working on Talwa-Admin and Api<br>🌱 I’m currently learning GraphQL<br>💬 Ask me about React, NextJS<br>
+🔭 I’m currently working on Talwa-Admin and Api<br>🌱 I’m currently learning GraphQL<br>💬 Ask me about React, NextJS<br>[![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader)](https://drive.google.com/file/d/1QWzSzlCfhcks4MFzPc5S9ryMxKOxx8qE/view?usp=drive_link)
+
 
 
 ## 🌐 Socials:
